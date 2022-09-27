@@ -4,7 +4,7 @@
 <b>Discipline | <b>Chemical Binding(Chemistry)
 :--|:--|
 <b> Lab | <b> Electroanalytical Virtual Laboratory
-<b> Experiment|  <b> 1.Electrolytic Concentration Cell
+<b> Experiment|  <b>Electrolytic Concentration Cell
 
 ### About the Experiment 
 
