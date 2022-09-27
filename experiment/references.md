@@ -1,3 +1,3 @@
-Physical Chemistry, Puri, Sharma &amp; Pathania.
-					The Elements of Physical Chemistry, P.W.Atkins, Oxford.
-					A textbook of physical chemistry, Vol 3 , KL Kapoor.
+                    1. Physical Chemistry, Puri, Sharma &amp; Pathania.
+					2. The Elements of Physical Chemistry, P.W.Atkins, Oxford.
+					3. A textbook of physical chemistry, Vol 3 , KL Kapoor.
