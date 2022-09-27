@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 |Dinesh Kumar Verma . |Project Associate . |Chemistry . | Dayalbagh Educational Institute. |evlabdei@gmail .
 2 | . | . | . | . | .
