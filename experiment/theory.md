@@ -20,5 +20,5 @@ The cell contains a redox reaction in between beaker A & beaker B connected thro
 Reactions involved in the process:
 At Anode: Cu → Cu<sup>+2</sup><sub>(a1)</sub> + 2 e<sup>-</sup>       Oxidation
 At Cathode: Cu<sup>+2</sup><sub>(a2)</sub> + 2 e<sup>-</sup> → Cu     Reduction
-Overall reaction: Cu+2 (a2) → Cu+2(a1)
+Overall reaction: Cu<sup>+2</sup><sub> (a2)</sub> → Cu<sup>+2</sup><sub>(a1)</sub>
 				
