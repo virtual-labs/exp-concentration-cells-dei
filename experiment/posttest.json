@@ -3,8 +3,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Q1. When equilibrium is reached inside the two half-cells of the electrochemical cells, what is the
-net voltage across the electrodes?",
+      "question": "Q1. When equilibrium is reached inside the two half-cells of the electrochemical cells, what is the net voltage across the electrodes?",
       "answers": {
         "a": ">1",
         "b": "<1",
