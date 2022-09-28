@@ -8,9 +8,9 @@
         "a": "Acetic acid",
         "b": "Hydrochloric acid",
         "c": "Ammonia",
-        "d": "Fructose",
+        "d": "Fructose"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "b"
       
     },
     {
@@ -19,10 +19,10 @@
         "a": "Hydrogen peroxide",
         "b": "Potassium dichromate",
         "c": "Nitric acid",
-        "d": "Hydrogen sulphide",
+        "d": "Hydrogen sulphide"
       },
       
-      "correctAnswer": "d",
+      "correctAnswer": "d"
       
     },
 	{
@@ -31,10 +31,10 @@
         "a": "KMnO<sub>4</sub>",
         "b": "K<sub>2</sub> Cr<sub>2</sub>O<sub>7</sub>",
         "c": " HNO3",
-        "d": "H<sub>2</sub>O<sub>2</sub>",
+        "d": "H<sub>2</sub>O<sub>2</sub>"
       },
       
-      "correctAnswer": "d",
+      "correctAnswer": "d"
       
     },
 	{
@@ -43,9 +43,9 @@
         "a": "by the movement of ions",
         "b": "by the movement of atoms",
         "c": "by the movement of molecules",
-        "d": "by the movement of electrons from the cathode to anode",
+        "d": "by the movement of electrons from the cathode to anode"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "d"
       },
       {
       "question": "Q5.  An electrochemical cell generally consists of a cathode and an anode. Which of the following statements is correct with respect to the cathode?",
@@ -53,9 +53,9 @@
         "a": "Oxidation occurs at the cathode",
         "b": "Electrons move into the cathode",
         "c": "Usually denoted by a negative sign",
-        "d": "Is usually made up of insulating material",
+        "d": "Is usually made up of insulating material"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "b"
       },
 	  {
       "question": "Q6. Which of the following is not a type of electrochemical cell?",
@@ -63,9 +63,9 @@
         "a": "Oxidation occurs at the cathode",
         "b": "Electrons move into the cathode",
         "c": "Usually denoted by a negative sign",
-        "d": "Is usually made up of insulating material",
+        "d": "Is usually made up of insulating material"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "b"
       },
 	  {
       "question": "Q7. Which of the following is not a generally used electrolyte in the salt bridges used to connect the two half-cells of an electrochemical cell?",
@@ -73,9 +73,9 @@
         "a": "NaCl",
         "b": "KNO<sub>3</sub>",
         "c": "KCl",
-        "d": "ZnSO<sub>4</sub>",
+        "d": "ZnSO<sub>4</sub>"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "d"
       },
 	  {
       "question": "Q8.The reductant may be defined as a substance, whose oxidation no of the atom?",
@@ -83,9 +83,9 @@
         "a": " increases",
         "b": "decreases",
         "c": "remains constant",
-        "d": "may increases or decreases",
+        "d": "may increases or decreases"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "a"
       },
 	  {
       "question": "Q9.The chemical NaOH which is used in the manufacture of soaps, detergents, papers etc. is prepared by the electric current in?",
@@ -93,9 +93,9 @@
         "a": "aqueous NaCl",
         "b": "molten NaCl",
         "c": " H<sub>2</sub>O",
-        "d": "aqueous KCI",
+        "d": "aqueous KCI"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "a"
       },
 	  {
       "question": "Q10. Which of the following is not a good conductor?",
@@ -103,10 +103,10 @@
         "a": "Cu",
         "b": " NaCl (aq)",
         "c": "NaCl (molten)",
-        "d": "NaCl(s)",
+        "d": "NaCl(s)"
       },
-      "correctAnswer": "d",
-      },
+      "correctAnswer": "d"
+      }
       
     
   ]
