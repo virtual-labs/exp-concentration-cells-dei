@@ -1,39 +1,113 @@
+
 {
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Q1. The aqueous solution of which of the following compounds is the best conductor of electric current?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Acetic acid",
+        "b": "Hydrochloric acid",
+        "c": "Ammonia",
+        "d": "Fructose"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
+      
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Q2. Which of the following is not an example of an oxidizing agent?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Hydrogen peroxide",
+        "b": "Potassium dichromate",
+        "c": "Nitric acid",
+        "d": "Hydrogen sulphide"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d"
+      
+    },
+	{
+      "question": "Q3. Which of the following substances can act as both oxidising and reducing agent?",
+      "answers": {
+        "a": "KMnO<sub>4</sub>",
+        "b": "K<sub>2</sub> Cr<sub>2</sub>O<sub>7</sub>",
+        "c": " HNO3",
+        "d": "H<sub>2</sub>O<sub>2</sub>"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "d"
+      
+    },
+	{
+      "question": "Q4. Electrolytes conduct electric current?",
+      "answers": {
+        "a": "by the movement of ions",
+        "b": "by the movement of atoms",
+        "c": "by the movement of molecules",
+        "d": "by the movement of electrons from the cathode to anode"
+      },
+      "correctAnswer": "d"
+      },
+      {
+      "question": "Q5.  An electrochemical cell generally consists of a cathode and an anode. Which of the following statements is correct with respect to the cathode?",
+      "answers": {
+        "a": "Oxidation occurs at the cathode",
+        "b": "Electrons move into the cathode",
+        "c": "Usually denoted by a negative sign",
+        "d": "Is usually made up of insulating material"
+      },
+      "correctAnswer": "b"
+      },
+	  {
+      "question": "Q6. Which of the following is not a type of electrochemical cell?",
+      "answers": {
+        "a": "Oxidation occurs at the cathode",
+        "b": "Electrons move into the cathode",
+        "c": "Usually denoted by a negative sign",
+        "d": "Is usually made up of insulating material"
+      },
+      "correctAnswer": "b"
+      },
+	  {
+      "question": "Q7. Which of the following is not a generally used electrolyte in the salt bridges used to connect the two half-cells of an electrochemical cell?",
+      "answers": {
+        "a": "NaCl",
+        "b": "KNO<sub>3</sub>",
+        "c": "KCl",
+        "d": "ZnSO<sub>4</sub>"
+      },
+      "correctAnswer": "d"
+      },
+	  {
+      "question": "Q8.The reductant may be defined as a substance, whose oxidation no of the atom?",
+      "answers": {
+        "a": " increases",
+        "b": "decreases",
+        "c": "remains constant",
+        "d": "may increases or decreases"
+      },
+      "correctAnswer": "a"
+      },
+	  {
+      "question": "Q9.The chemical NaOH which is used in the manufacture of soaps, detergents, papers etc. is prepared by the electric current in?",
+      "answers": {
+        "a": "aqueous NaCl",
+        "b": "molten NaCl",
+        "c": " H<sub>2</sub>O",
+        "d": "aqueous KCI"
+      },
+      "correctAnswer": "a"
+      },
+	  {
+      "question": "Q10. Which of the following is not a good conductor?",
+      "answers": {
+        "a": "Cu",
+        "b": " NaCl (aq)",
+        "c": "NaCl (molten)",
+        "d": "NaCl(s)"
+      },
+      "correctAnswer": "d"
+      
+      
     }
   ]
 }
