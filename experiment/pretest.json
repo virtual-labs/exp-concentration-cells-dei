@@ -10,7 +10,7 @@
         "c": "Ammonia",
         "d": "Fructose"
       },
-      "correctAnswer": "b"
+      "correctAnswer": "b",
       
     },
     {
@@ -22,7 +22,7 @@
         "d": "Hydrogen sulphide"
       },
       
-      "correctAnswer": "d"
+      "correctAnswer": "d",
       
     },
 	{
@@ -34,7 +34,7 @@
         "d": "H<sub>2</sub>O<sub>2</sub>"
       },
       
-      "correctAnswer": "d"
+      "correctAnswer": "d",
       
     },
 	{
@@ -45,7 +45,7 @@
         "c": "by the movement of molecules",
         "d": "by the movement of electrons from the cathode to anode"
       },
-      "correctAnswer": "d"
+      "correctAnswer": "d",
       },
       {
       "question": "Q5.  An electrochemical cell generally consists of a cathode and an anode. Which of the following statements is correct with respect to the cathode?",
@@ -55,7 +55,7 @@
         "c": "Usually denoted by a negative sign",
         "d": "Is usually made up of insulating material"
       },
-      "correctAnswer": "b"
+      "correctAnswer": "b",
       },
 	  {
       "question": "Q6. Which of the following is not a type of electrochemical cell?",
@@ -65,7 +65,7 @@
         "c": "Usually denoted by a negative sign",
         "d": "Is usually made up of insulating material"
       },
-      "correctAnswer": "b"
+      "correctAnswer": "b",
       },
 	  {
       "question": "Q7. Which of the following is not a generally used electrolyte in the salt bridges used to connect the two half-cells of an electrochemical cell?",
@@ -75,7 +75,7 @@
         "c": "KCl",
         "d": "ZnSO<sub>4</sub>"
       },
-      "correctAnswer": "d"
+      "correctAnswer": "d",
       },
 	  {
       "question": "Q8.The reductant may be defined as a substance, whose oxidation no of the atom?",
@@ -85,7 +85,7 @@
         "c": "remains constant",
         "d": "may increases or decreases"
       },
-      "correctAnswer": "a"
+      "correctAnswer": "a",
       },
 	  {
       "question": "Q9.The chemical NaOH which is used in the manufacture of soaps, detergents, papers etc. is prepared by the electric current in?",
@@ -95,7 +95,7 @@
         "c": " H<sub>2</sub>O",
         "d": "aqueous KCI"
       },
-      "correctAnswer": "a"
+      "correctAnswer": "a",
       },
 	  {
       "question": "Q10. Which of the following is not a good conductor?",
@@ -105,7 +105,7 @@
         "c": "NaCl (molten)",
         "d": "NaCl(s)"
       },
-      "correctAnswer": "d"
+      "correctAnswer": "d",
       
       
     }
