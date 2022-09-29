@@ -9,8 +9,7 @@
         "c": "Ammonia",
         "d": "Fructose"
       },
-      "correctAnswer": "b",
-      
+      "correctAnswer": "b",      
     },
     {
       "question": "Q2. Which of the following is not an example of an oxidizing agent?",
@@ -19,10 +18,8 @@
         "b": "Potassium dichromate",
         "c": "Nitric acid",
         "d": "Hydrogen sulphide"
-      },
-      
-      "correctAnswer": "d",
-      
+      },      
+      "correctAnswer": "d",      
     },
 	{
       "question": "Q3. Which of the following substances can act as both oxidising and reducing agent?",
@@ -31,10 +28,8 @@
         "b": "K<sub>2</sub> Cr<sub>2</sub>O<sub>7</sub>",
         "c": " HNO3",
         "d": "H<sub>2</sub>O<sub>2</sub>"
-      },
-      
-      "correctAnswer": "d",
-      
+      },      
+      "correctAnswer": "d",      
     },
 	{
       "question": "Q4. Electrolytes conduct electric current?",
@@ -104,9 +99,7 @@
         "c": "NaCl (molten)",
         "d": "NaCl(s)"
       },
-      "correctAnswer": "d",
-      
-      
-    }
+      "correctAnswer": "d",    
+     }
   ]
 }
