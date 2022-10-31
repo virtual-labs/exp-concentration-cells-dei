@@ -1,5 +1,4 @@
 {
-
   "version": 2.0,
   "questions": [
     {
@@ -10,8 +9,7 @@
         "c": "= 0",
         "d": "Not defined"
       },
-	  "correctAnswer": "c",
-      
+	  "correctAnswer": "c"     
     },
 	{
       "question": "Q2. Which of the following is not a generally used electrolyte in the salt bridges used to connect the two half-cells of an electrochemical cell?",
@@ -21,8 +19,7 @@
         "c": "KCl",
         "d": "ZnSO<sub>4</sub>"
       },
-      "correctAnswer": "d",
-
+      "correctAnswer": "d"
     },
     {
       "question": "Q3. Which of the following factors does not affect the electrode potential of an electrode?",
@@ -32,8 +29,7 @@
         "c": "Molarity of the solution",
         "d": "Size of the electrode"
       },
-      "correctAnswer": "a",
-
+      "correctAnswer": "a"
     },
 	{
       "question": "Q4.Why are the saturated solutions of electrolytes for the salt bridge prepared in agar-agar jelly or gelatin?",
@@ -43,9 +39,7 @@
         "c": "It helps maintain the electrical polarity between the two half-cell solutions",
         "d": " It keeps the electrolyte in semi-solid phase and prevents it from mixing with the two half-cell solutions"
       },
-
-      "correctAnswer": "d",
-
+      "correctAnswer": "d"
     },
 	{
       "question": "Q5.Which of the following conditions are satisfied when the cell reaction in the electrochemical cell is spontaneous?",
@@ -54,12 +48,9 @@
         "b": "E° < 0",
         "c": "E° = 0",
         "d": "ΔG° < 0"
-      },
-      
-      "correctAnswer": "d",
-
-    },
-	
+      },      
+      "correctAnswer": "d"
+    },	
 	{
       "question": "Q6.When the salt bridge is removed from a cell, its voltage?",
       "answers": {
@@ -67,10 +58,8 @@
         "b": "will decrease to half",
         "c": "will decrease to zero",
         "d": "will not change"
-      },
-     
-      "correctAnswer": "c",
-
+      },     
+      "correctAnswer": "c"
     },
 	{
       "question": "Q7.The cell constant of a conductivity cell?",
@@ -79,10 +68,8 @@
         "b": "Remains constant for a cell",
         "c": "Changes with a change of electrolyte",
         "d": "Changes with change in temperature"
-      },
-      
-      "correctAnswer": "b",
-
+      },      
+      "correctAnswer": "b"
     },
 	{
       "question": "Q8.Anodizing creates an oxide layer on the surface of a metal that is:",
@@ -91,10 +78,8 @@
         "b": "thinner than the naturally occurring oxide",
         "c": "much lighter than the naturally occurring oxide",
         "d": "a more porous surface than the naturally occurring oxide"
-      },
-      
-      "correctAnswer": "a",
-
+      },      
+      "correctAnswer": "a"
     },
 	{
       "question": "Q9.What is the product formed at the cathode in the electrolysis of aqueous CuSO<sub>4</sub>?",
@@ -103,10 +88,8 @@
         "b": "Oxygen gas",
         "c": "Hydrogen gas",
         "d": "Sulphur"
-      },
-      
-      "correctAnswer": "a",
-
+      },      
+      "correctAnswer": "a"
     },
 	{
       "question": "Q10.Electrolytic cell contains?",
@@ -115,10 +98,8 @@
         "b": "Electrolytes contains different concentration",
         "c": "Electrode should be of varied pressure",
         "d": "Reference electrode is used"
-      },
-      
-      "correctAnswer": "b",
-
+      },      
+      "correctAnswer": "b"
     }
   ]
 
