@@ -1,3 +1,4 @@
+### Theory:
 The cell which involves the transfer of matter from one half cell to other due to the difference in concentration of electrolytic solutions, results into the production of electro motive force(EMF) of the cell are known as concentration cell. 
 They are classified into following types:
 
@@ -5,15 +6,11 @@ They are classified into following types:
 
 (B)	Electrolyte concentration cell.
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 |Dinesh Kumar Verma . |Project Associate . |Chemistry . | Dayalbagh Educational Institute. |evlabdei@gmail.com .
-2 |Dr Sachin Saxena . | Faculty. | Chemistry. |Dayalbagh Educational Institute. | sachinusic@gmail.com.
+SrNo | Electrode (Concentration) | Electrolytic Solution (Concentration) | Electrolytic Solution (Concentration)
+:--|:--|:--|:--|
+1 |Electrode concentration cell . |Varies in terms of pressure . | Remains Same. 
+2 | Electrode concentration cell. | Remains same. | Varies in terms of molarity etc. 
 
-S.No.| Electrode (Concentration) | Electrolytic Solution (Concentration)|Electrolytic Solution (Concentration)
-:--|:--|:--|:--|	
-1. | Electrode concentration cell| Varies in terms of pressure|Remains Same.						  
-2. | Electrode concentration cell| Remains same|Varies in terms of molarity etc.
 	  
 	
 ![Figure1](images/img1.jpg)
