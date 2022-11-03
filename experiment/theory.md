@@ -5,10 +5,10 @@ They are classified into following types:
 
 (B)	Electrolyte concentration cell.
 
-| S.No.| Electrode (Concentration)   | Electrolytic Solution (Concentration)|Electrolytic Solution (Concentration)
-:--|:--|:--|:--|:--|	
-| 1.   | Electrode concentration cell| Varies in terms of pressure          |Remains Same						  |
-| 2.   | Electrode concentration cell| Remains same							|Varies in terms of molarity etc.	  |
+S.No.| Electrode (Concentration) | Electrolytic Solution (Concentration)|Electrolytic Solution (Concentration)
+:--|:--|:--|:--|	
+1. | Electrode concentration cell| Varies in terms of pressure|Remains Same.						  
+2. | Electrode concentration cell| Remains same|Varies in terms of molarity etc.	  
 	
 ![Figure1](images/img1.jpg)
 	
