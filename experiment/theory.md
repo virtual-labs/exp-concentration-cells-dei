@@ -5,10 +5,16 @@ They are classified into following types:
 
 (B)	Electrolyte concentration cell.
 
+SrNo | Name | Faculty or Student | Department| Institute | Email id
+:--|:--|:--|:--|:--|:--|
+1 |Dinesh Kumar Verma . |Project Associate . |Chemistry . | Dayalbagh Educational Institute. |evlabdei@gmail.com .
+2 |Dr Sachin Saxena . | Faculty. | Chemistry. |Dayalbagh Educational Institute. | sachinusic@gmail.com.
+
 S.No.| Electrode (Concentration) | Electrolytic Solution (Concentration)|Electrolytic Solution (Concentration)
 :--|:--|:--|:--|	
 1. | Electrode concentration cell| Varies in terms of pressure|Remains Same.						  
-2. | Electrode concentration cell| Remains same|Varies in terms of molarity etc.	  
+2. | Electrode concentration cell| Remains same|Varies in terms of molarity etc.
+	  
 	
 ![Figure1](images/img1.jpg)
 	
