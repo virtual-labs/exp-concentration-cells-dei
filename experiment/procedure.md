@@ -15,14 +15,14 @@
 7. The reaction is reversed when the Na2S added to the solution at higher concentration.
 
 
-(i) The electrolytic solution must have different concentrations.
+(i) The electrolytic solution must have different concentrations.<br>
 
-(ii) Nature of electrode depends on electrolytic solution.
+(ii) Nature of electrode depends on electrolytic solution.<br>
 
-(iii) Salt bridge is used to prevent diffusion of solution from one half cell to other.
+(iii) Salt bridge is used to prevent diffusion of solution from one half cell to other.<br>
 
-(iv) Ecell value for spontaneous process is equal to positive.
+(iv) Ecell value for spontaneous process is equal to positive.<br>
 
-(v) If the concentration of electrolytic solution is same, Ecell = 0.
+(v) If the concentration of electrolytic solution is same, Ecell = 0.<br>
 
-(vi) Cathode and Anode depends on the concentration of electrolytic solution.				
+(vi) Cathode and Anode depends on the concentration of electrolytic solution.<br>
