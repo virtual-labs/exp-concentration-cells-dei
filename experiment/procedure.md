@@ -12,7 +12,7 @@
 
 6. Through the process voltage declines till the equilibrium attained.
 
-7. The reaction is reversed when the Na2S added to the solution at higher concentration.
+7. The reaction is reversed when the Na<sub>2</sub>S added to the solution at higher concentration.
 
 
 (i) The electrolytic solution must have different concentrations.<br>
