@@ -1,4 +1,4 @@
-### Theory:
+## Theory:
 The cell which involves the transfer of matter from one half cell to other due to the difference in concentration of electrolytic solutions, results into the production of electro motive force(EMF) of the cell are known as concentration cell. 
 They are classified into following types:
 
@@ -17,7 +17,7 @@ SrNo | Electrode (Concentration) | Electrolytic Solution (Concentration) | Elect
 	
 Electrode: like electrodes (Cu).
 Electrolytic solution: Copper sulfate solution (CuSO<sub>4</sub>).
-Cell representation: Cu | Cu<sup>+2</sup><sub>(a1)</sub> || Cu<sup>+2</sup><sup>(a2)</sup> | Cu.
+Cell representation: Cu | Cu<sup>+2</sup><sub>(a1)</sub> || Cu<sup>+2</sup><sub>(a2)</sub> | Cu.
 
 **Working:**
 
