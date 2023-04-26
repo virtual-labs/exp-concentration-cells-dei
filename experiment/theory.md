@@ -23,7 +23,10 @@ Cell representation: Cu | Cu<sup>+2</sup><sub>(a1)</sub> || Cu<sup>+2</sup><sub>
 
 The cell contains a redox reaction in between beaker A & beaker B connected through a salt bridge.
 Reactions involved in the process:
+<br>
 At Anode: Cu → Cu<sup>+2</sup><sub>(a1)</sub> + 2 e<sup>-</sup>       Oxidation
+<br>
 At Cathode: Cu<sup>+2</sup><sub>(a2)</sub> + 2 e<sup>-</sup> → Cu     Reduction
+<br>
 Overall reaction: Cu<sup>+2</sup><sub> (a2)</sub> → Cu<sup>+2</sup><sub>(a1)</sub>
 				
