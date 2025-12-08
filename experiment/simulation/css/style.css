@@ -398,13 +398,13 @@ padding: 10px;
     color: #c4c3c8;
 
 }
-#off{ 
-left: 475px;
-position: absolute;
-top: 178px;
-cursor: pointer;
-width: 66px;
-height: 25px;
+#off {
+  left: 46%;
+  position: absolute;
+  top: 35%;
+  cursor: pointer;
+  width: 66px;
+  height: 25px;
 }
 .blink{text-decoration: none;
   font-size: 20px;

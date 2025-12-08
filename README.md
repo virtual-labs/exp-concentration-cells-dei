@@ -10,7 +10,7 @@
 
 Fill a brief description of this experiment here
 	
-<b>Name of Developer | <b> Dinesh Kumar Verma
+<b>Name of Developer | <b> Dr. Sachin Saxena.
 :--|:--|
 <b> Institute| <b> Dayalbagh Educational Institute 
 <b> Email id|   <b>  evlabdei@gmail.com
@@ -22,4 +22,3 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 |Dr. Sachin Saxena . | Faculty. | Chemistry. |Dayalbagh Educational Institute. | sachinusic@gmail.com.
 2 |Dinesh Kumar Verma . |Project Associate . |Chemistry . | Dayalbagh Educational Institute. |evlabdei@gmail.com .
-
