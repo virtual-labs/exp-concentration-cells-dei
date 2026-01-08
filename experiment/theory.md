@@ -33,7 +33,8 @@ Overall reaction: Cu<sup>+2</sup><sub> (a2)</sub> → Cu<sup>+2</sup><sub>(a1)</
 
 ![Figure1](images/img2.png)
 
-**Key points:**
+**Key points:** 
+<br>
 (i) The electrolytic solution must have different concentrations.<br>
 (ii) The nature of the electrode depends on the electrolytic solution.<br>
 (iii) Salt bridge is used to prevent diffusion of solution from one half cell to another.<br>
