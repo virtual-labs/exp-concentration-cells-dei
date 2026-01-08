@@ -37,23 +37,23 @@
             },
             "correctAnswer": "d"
         }, {
-            "question": "Q5.  An electrochemical cell generally consists of a cathode and an anode. Which of the following statements is correct with respect to the cathode?",
+            "question": "Q5.  Which of the following statements is correct with respect to the cathode?",
             "answers": {
                 "a": "Oxidation occurs at the cathode",
                 "b": "Electrons move into the cathode",
-                "c": "Usually denoted by a negative sign",
-                "d": "Is usually made up of insulating material"
+                "c": "A negative sign usually denotes it",
+                "d": "It is usually made of an insulating material"
             },
             "correctAnswer": "b"
         }, {
             "question": "Q6. Which of the following is not a type of electrochemical cell?",
             "answers": {
-                "a": "Oxidation occurs at the cathode",
-                "b": "Electrons move into the cathode",
-                "c": "Usually denoted by a negative sign",
-                "d": "Is usually made up of insulating material"
+                "a": "Galvanic (Voltaic) cell",
+                "b": "Electrolytic cell",
+                "c": "Concentration cell",
+                "d": "Photochemical cell"
             },
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         }, {
             "question": "Q7. Which of the following is not a generally used electrolyte in the salt bridges used to connect the two half-cells of an electrochemical cell?",
             "answers": {
