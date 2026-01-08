@@ -1,28 +1,10 @@
-**Procedure for the experiment is as follows:**
-	
-1. Take two beakers A & B.
-
-2. Add the two different concentration electrolytic solution in both the beaker.
-
-3. Dip the like electrodes in both the beaker.
-
-4. Connect both electrodes through crocodile clip, further connected to voltameter.
-
-5. Insert the salt bridge to connect both the beakers.
-
-6. Through the process voltage declines till the equilibrium attained.
-
-7. The reaction is reversed when the Na<sub>2</sub>S added to the solution at higher concentration.
-
-
-(i) The electrolytic solution must have different concentrations.<br>
-
-(ii) Nature of electrode depends on electrolytic solution.<br>
-
-(iii) Salt bridge is used to prevent diffusion of solution from one half cell to other.<br>
-
-(iv) Ecell value for spontaneous process is equal to positive.<br>
-
-(v) If the concentration of electrolytic solution is same, Ecell = 0.<br>
-
-(vi) Cathode and Anode depends on the concentration of electrolytic solution.<br>
+**Procedure :**	
+ 
+1.	Prepare solution A (0.20 M) by weighing 5 g of CuSO₄·5H₂O and transferring it to a 100 mL volumetric flask, then making up the volume with deionized water.<br>
+2.	Prepare solution B (0.10 M) by weighing 2.5 g of CuSO₄·5H₂O and transferring it to a 100 mL volumetric flask, then making up the volume with deionized water.<br>
+3.	Connect the two beakers using a KCl salt bridge.<br>
+4.	Immerse clean copper electrodes of identical size into each solution.<br>
+5.	Connect the copper electrodes to a voltmeter using crocodile clips.<br>
+6.	The electrode in 0.20 M CuSO₄ solution was connected to the positive terminal, while the electrode in 0.10 M CuSO₄ solution was connected to the negative terminal of the voltmeter.<br>
+7.	Record the cell voltage and observe its decrease with time until equilibrium is reached.<br>
+8.	Add Na₂S solution to the higher concentration solution to reduce Cu²⁺ concentration and observe the reversal of the cell voltage.<br>

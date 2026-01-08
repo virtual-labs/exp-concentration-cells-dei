@@ -21,7 +21,7 @@ Cell representation: Cu | Cu<sup>+2</sup><sub>(a1)</sub> || Cu<sup>+2</sup><sub>
 
 **Working:**
 
-The cell contains a redox reaction in between beaker A & beaker B connected through a salt bridge.
+The cell contains a redox reaction  between beaker A & beaker B connected through a salt bridge.
 <br>
 Reactions involved in the process:
 <br>
@@ -30,4 +30,14 @@ At Anode: Cu → Cu<sup>+2</sup><sub>(a1)</sub> + 2 e<sup>-</sup>       Oxidatio
 At Cathode: Cu<sup>+2</sup><sub>(a2)</sub> + 2 e<sup>-</sup> → Cu     Reduction
 <br>
 Overall reaction: Cu<sup>+2</sup><sub> (a2)</sub> → Cu<sup>+2</sup><sub>(a1)</sub>
+
+![Figure1](images/img2.png)
+
+**Key points:**
+(i) The electrolytic solution must have different concentrations.<br>
+(ii) The nature of the electrode depends on the electrolytic solution.<br>
+(iii) Salt bridge is used to prevent diffusion of solution from one half cell to another.<br>
+(iv) Ecell value for spontaneous process is equal to positive.<br>
+(v) If the concentration of electrolytic solution is the same, Ecell = 0.<br>
+(vi) Cathode and anode depend on the concentration of the electrolytic solution.<br>
 				
